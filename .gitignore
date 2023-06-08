@@ -1,0 +1,4 @@
+env
+__pycache__
+finetune_rvlcdip
+pretrained_weights
